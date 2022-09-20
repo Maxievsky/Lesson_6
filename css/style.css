@@ -1,0 +1,158 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+body{
+	font-family:"Lato", Arial, Helvetica, sans-serif;
+	color: rgb(66, 69, 81);
+	width: 1920px;
+}
+
+.article {
+	margin: 80px 765px 120px 345px ;
+
+}
+h1{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%; 
+	color: rgb(30, 33, 44);
+	margin: 0 0 40px 0;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.image {
+	margin: 0 0 60px 0;
+	width: 100%;
+}
+
+.bold {
+	margin: 0 0 24px 0;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: rgb(30, 33, 44);
+}
+
+.text {
+	line-height: 160%;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin: 0 0 24px 0 ;
+
+}
+.bullets-list{
+	margin: 0 0 24px 0;
+}
+.bullets{
+	padding: 0 0 4px 0;
+	line-height: 160%;
+}
+
+.quote{margin:0 0 48px 0;}	
+
+.list .text{
+	text-shadow: none;
+}
+
+.content .last{
+	margin: 0 0 48px 0;
+}
+
+.list .last{
+	margin: 0 0 48px 0;
+
+}
+
+
+.tarining {
+font-weight: 400;
+font-size: 22px;
+
+	
+}
+
+.header{
+	margin-bottom: 20px;
+	background-color: rgb(165, 235, 165);
+	padding: 10px;
+	border-top: 3px solid red;
+	border-right: 3px dotted blue;
+	border-bottom: 3px double rgb(0, 0, 0);
+	border-left: 3px dashed rgb(77, 23, 255);
+	box-shadow: inset 2px 2px 20px 2px cornflowerblue ;
+}
+
+.overflow{
+	overflow: scroll;
+	max-height: 40px;
+}
+
+
+.card {
+	background-color: rgb(255, 255, 214);
+	max-width: 200px;
+	border: 3px solid black;
+	border-radius: 8px;
+	box-shadow: 3px 3px 3px 3px rgb(77, 77, 76);
+	opacity: 0.8;
+	margin-bottom: 20px;
+
+}
+.card-container{
+	padding: 0 10px;
+}
+
+
+.title {
+	margin-bottom: 10px;
+	font-weight: 900;
+	font-size: 24px;
+	color: rgb(30, 33, 44);
+	margin-bottom: 5px;
+	padding: 10px ;
+	
+
+}
+.pic{
+	padding: 0 10px;
+	margin-bottom: 20px;
+	
+}
+
+.picture {
+	width: 100%;
+	outline:1px solid black;
+	border-radius: 8px;
+	
+}
+
+.one{
+	padding: 0 0 5px 0;
+}
+
+
+
+.center{
+	padding: 0 10px;
+	margin-bottom: 20px;
+	
+}
+
+.button {
+	display: inline-block;
+	background-color: rgb(255, 100, 34);
+	padding: 15px 70px;
+	color: white;
+	border-radius: 8px;
+	font-weight: 400;
+	font-size: 20px;
+
+
+
+}
+
+.view {
+	visibility: hidden;
+}
+
